@@ -1,0 +1,29 @@
+.sponsors{
+    width: 1440px;
+    height: 145px;
+    width: 100%;
+    background-color: #3E5C50;
+}
+
+.title{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+color: rgba(255, 255, 255, 0.31);
+position: absolute;
+margin-left: 870px;
+padding-top: 25px;
+}
+.svgItems{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    margin-left: 350px;
+    margin-right: 350px;
+    padding-top: 25px;
+}
+
+.item{
+    padding: 25px;
+}

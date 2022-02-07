@@ -1,0 +1,22 @@
+.home{
+    width: 1440px;
+    height: 431px;
+    width: 100%;
+    background-color: #4DBD90;
+    /* background-image: url("https://s3-alpha-sig.figma.com/img/186a/7a5a/d36c82008f89bffacfb4332a36d24f55?Expires=1645401600&Signature=g~8BgMS8rvyxkRr3R1Po1TDmo6po3CsegSxAQfGadFLFYO9fYL7hKiwkYpAClQmpFS~pxnf-5Pfw-utfjlbdUz7YOsjw-dgZOod~QdFWqZC5sR3KBK9fXnDAmV7AkhRtDwkGGDaAZQNriN8ps6dnlT7U2MzB3-nUi~5L0UmR2b~JxGI1Dd8JIRDNBQ9ivK-ZTu9EZCU8yUuj259TSLvBiWy7fs5DyDvvyqo71Gsj-9pGm~r3FGrtTPMBvrtyU9VN~frm454xizCR4lzCSQw-Pvz56sj4MwvQC29qEmkPQw6Op-IBguS7XLf4~nrJQFpU5dkrDnDuGC0OhD-~0Ak08w__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+    */
+   }
+.wrapperHome{
+    display: flex;
+    justify-content: space-between;
+    
+ }
+
+ .leftBlock{
+     padding-right: 250px;
+     padding-top: 70px;
+ }
+ .rightBlock{
+     padding-left: 250px;
+     padding-top: 70px;
+ }
